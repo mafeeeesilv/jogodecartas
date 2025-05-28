@@ -1,19 +1,19 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'biologia',
+    'O que é citologia?',
+    'Citologia é uma área da biologia que estuda as células'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'organela',
+    'Qual a organela responsável pela respiração celular?',
+    'Mitocôndria'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Futebol',
+    'em que ano foi criado a sociedade esportiva palmeiras',
+    '1914'
 )
 
 criaCartao(
