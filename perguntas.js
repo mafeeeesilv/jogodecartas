@@ -1,7 +1,7 @@
 criaCartao(
-    'biologia',
-    'O que é citologia?',
-    'Citologia é uma área da biologia que estuda as células'
+    'Nintendo',
+    'Qual o nome do encanador famoso dos videogames da Nintendo?',
+    'Mario'
 )
 
 criaCartao(
