@@ -5,15 +5,15 @@ criaCartao(
 )
 
 criaCartao(
-    'organela',
-    'Qual a organela responsável pela respiração celular?',
-    'Mitocôndria'
+    'Sonic',
+    'Quem é o vilão do Sonic?',
+    'Dr. Ivo "Eggman" Robotnik'
 )
 
 criaCartao(
-    'Futebol',
-    'em que ano foi criado a sociedade esportiva palmeiras',
-    '1914'
+    'GTA',
+    'Qual empresa desenvolve a franquia GTA?',
+    'Rockstar Games '
 )
 
 criaCartao(
