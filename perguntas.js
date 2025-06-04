@@ -17,12 +17,12 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'FIFA',
+    'Qual o modo do jogo FIFA que permite criar sua própria história como jogador?',
+    'Modo carreira'
 )
 criaCartao(
-    'Lingua inglesa',
+    '',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
