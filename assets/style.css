@@ -1,11 +1,11 @@
 :root {
-    --text-color: #b9bfc5;
-    --card-front-color: #f2eeff;
+    --text-color: #0b335b;
+    --card-front-color: #ccbdfe;
     --card-back-color: #175bcaa2;
 }
 
 body {
-    background: url('img/bg-assets/img/69bc8c84c6168b5670daf311085fa4d2.jpg');
+    background: url(assets/img/69bc8c84c6168b5670daf311085fa4d2.jpg');
     font-family: American Typewriter, serif;
 }
 
