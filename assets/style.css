@@ -1,11 +1,11 @@
 :root {
     --text-color: #0b335b;
-    --card-front-color: #ccbdfe;
+    --card-front-color: #529dd2;
     --card-back-color: #175bcaa2;
 }
 
 body {
-    background: url("/game");
+    background: url("/fundogame.png");
     font-family: American Typewriter, serif;
 }
 
