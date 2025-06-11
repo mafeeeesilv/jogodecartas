@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('/fundogame.png'), no-repeat cover;
+        background: url('img/fundogame.png'), no-repeat cover;
     }
 
     .cartao {
