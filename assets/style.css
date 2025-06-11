@@ -1,11 +1,11 @@
 :root {
     --text-color: #0b335b;
     --card-front-color: #529dd2;
-    --card-back-color: #175bcaa2;
+    --card-back-color: #f4f7fba2;
 }
 
 body {
-    background: url('/fundogame.png');
+    background: url('img/fundogame.png');
     font-family: American Typewriter, serif;
 }
 
@@ -82,8 +82,8 @@ body {
 }
 
 footer {
-    background-color: rgb(10, 56, 117);
-    color: rgb(126, 119, 180);
+    background-color: rgb(91, 133, 193);
+    color: rgb(92, 113, 197);
     position: fixed;
     bottom: 0;
     width: 100%;
