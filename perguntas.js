@@ -22,12 +22,12 @@ criaCartao(
     'Modo carreira'
 )
 criaCartao(
-    '',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Personagens',
+    'Scorpion, Sub-zaro, Liu Kang, Raiden, Johnny Cage e Sonya Blade são personagens de qual jogo de luta?',
+    'Mortal Kombat'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'God Of War',
+    'Qual o nome do pai do Kratos?',
+    'Zeus'
 )
